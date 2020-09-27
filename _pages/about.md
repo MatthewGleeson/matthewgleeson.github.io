@@ -23,4 +23,4 @@ __September 2020__: Started my MSc Machine Learning Program at UCL
 __May 2020__: Graduated from WashU with double degree in Computer Science and Mathematics
 
 
-__[Last updated in March 2020]__
+__[Last updated in September 2020]__
