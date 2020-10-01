@@ -6,20 +6,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/
 
-#  - title: "Teaching"
-#    url: /teaching/
+- title: "Resume"
+  url: /files/CV-oct2020.pdf
 
-#  - title: "Portfolio"
-#    url: /portfolio/
-
-#  - title: "Blog Posts"
-#    url: /year-archive/
-
-#- title: "CV"
-#  url: /files/CV.pdf
-
-#  - title: "Guide"
-#    url: /markdown/
-
-- title: "News"
-  url: /news/
+#- title: "News"
+#  url: /news/

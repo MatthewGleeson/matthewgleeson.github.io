@@ -16,7 +16,7 @@ I'm also a co-founder of a political engagement and data analysis startup, [Puls
 
 
 
-# Recent news
+# What I've been up to
 
 __September 2020__: Started my MSc Machine Learning Program at UCL
 
