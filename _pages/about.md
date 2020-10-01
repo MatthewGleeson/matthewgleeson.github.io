@@ -21,6 +21,3 @@ I'm also a co-founder of a political engagement and data analysis startup, [Puls
 __September 2020__: Started my MSc Machine Learning Program at UCL
 
 __May 2020__: Graduated from WashU with double degree in Computer Science and Mathematics
-
-
-__[Last updated in September 2020]__
