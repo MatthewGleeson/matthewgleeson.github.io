@@ -14,7 +14,7 @@ My research interests span across the field of AI, including but not limited to 
 
 I'm also a co-founder of a political engagement and data analysis startup, [Pulse](https://pulseboard.co/), which recently became an [MIT Sandbox](https://sandbox.mit.edu/) team.
 
-I'm currently writing my thesis with [Professor John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/), with additional supervision from [María Pérez-Ortiz](http://mariaperezortiz.com/) and [Omar Rivasplata](https://scholar.google.com/citations?user=Ybc8CeEAAAAJ&hl=en) on self-certified learning for probabilistic neural networks.
+I'm currently writing my thesis with [Professor John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/), with additional supervision from [María Pérez-Ortiz](http://mariaperezortiz.com/) and [Omar Rivasplata](https://sites.ualberta.ca/~omarr/) on self-certified learning for probabilistic neural networks.
 
 After graduating from UCL I plan to work as a ML Engineer at Microsoft AI in Boston.
 
