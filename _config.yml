@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Matt Gleeson"
 title_separator          : "-"
 name                     : &name "Matt Gleeson"
-description              : &description "MSc Machine Learning @ UCL"
+description              : &description "Machine Learning @ Microsoft"
 url                      : https://matthewgleeson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MatthewGleeson/MatthewGleeson.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Matt Gleeson"
   avatar           : "profile.png"
-  bio              : "MSc Machine Learning @ UCL"
-  location         : "London"
+  bio              : "Machine Learning @ Microsoft"
+  location         : "NYC"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "matthew.gleeson.20@ucl.ac.uk"
+  email            : "matmogleeson@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
