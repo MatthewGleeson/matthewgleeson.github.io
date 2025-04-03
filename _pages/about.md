@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Engineer on LLM Platform team within Microsoft AI’s applied research division(([Microsoft AI ](https://www.microsoft.com/en-us/research/group/msai/))). My team owns the system that runs inference for all of Microsoft's LLM services, including PowerPoint/Excel/Word/Teams Copilot and Business Chat. Before that, I was a Machine Learning Engineer at Microsoft on the [MAIDAP](https://www.microsoftnewengland.com/maidap/) team. Before that, I was a student in the [MSc Machine Learning program](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/machine-learning-msc) at University College London(UCL). 
+I am a Machine Learning Engineer on LLM Platform team in [Microsoft AI](https://www.microsoft.com/en-us/research/group/msai/) working on inference at-scale and applied research. Before that, I was a Machine Learning Engineer at Microsoft on the [MAIDAP](https://www.microsoftnewengland.com/maidap/) team. Before that, I was a student in the [MSc Machine Learning program](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/machine-learning-msc) at University College London(UCL). 
 
 Before starting at UCL I recieved double degrees in Computer Science and Mathematics(with a focus on Statistics) from the [McKelvey School of Engineering at Washington University in St. Louis](https://engineering.wustl.edu/mckelvey/Pages/default.aspx) where I worked with [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/) on active search and deep representation learning.
 
@@ -18,7 +18,7 @@ At UCL I wrote my thesis with [Professor John Shawe-Taylor](http://www0.cs.ucl.a
 
 # What I've been up to
 
-__October 2023__: Started working as a Machine Learning Engineer in ([Microsoft AI ](https://www.microsoft.com/en-us/research/group/msai/))
+__October 2023__: Started working as a Machine Learning Engineer in [Microsoft AI ](https://www.microsoft.com/en-us/research/group/msai/)
 
 __October 2021__: Started working as a Machine Learning Engineer on Microsoft's New England Research and Development AI team ([MAIDAP](https://www.microsoftnewengland.com/maidap/))
 
