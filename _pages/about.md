@@ -18,7 +18,7 @@ At UCL I wrote my thesis with [Professor John Shawe-Taylor](http://www0.cs.ucl.a
 
 # What I've been up to
 
-__October 2023__: Started working as a Machine Learning Engineer at [Microsoft AI ](https://www.microsoft.com/en-us/research/group/msai/)
+__October 2023__: Started working as a Machine Learning Engineer at [Microsoft AI](https://www.microsoft.com/en-us/research/group/msai/)
 
 __October 2021__: Started working as a Machine Learning Engineer on Microsoft's New England Research and Development AI team ([MAIDAP](https://www.microsoftnewengland.com/maidap/))
 
